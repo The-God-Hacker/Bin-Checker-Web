@@ -1,6 +1,6 @@
 # Bins-Su-API
 
-An API to get BIN details( Unofficial &amp; may not work if bins.su do any changes to their site ) ([Demo](https://god-bin-checker-web.vercel.app))
+An API to get BIN details( Unofficial &amp; may not work if bins.su do any changes to their site ) ([Demo](https://binn-checker-web.vercel.app))
 
 ## API
 
@@ -8,7 +8,7 @@ Send Get Request to `http://yourhost:port/api/{bin}`
 
 ## Example
 
-Request to : `https://god-bin-checker-web.vercel.app)/api/549184`
+Request to : `https://binn-checker-web.vercel.app/api/549184`
 
 Response : 
 
